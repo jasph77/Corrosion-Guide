@@ -1,0 +1,442 @@
+﻿Chem. Formel,Fluid,Medium (deutsch),Meidum (svenska),"""Medium"" (rumänisch)",Conc %,Temp. øC,"1.4571 
+SS","Titan-
+ium","Tanta-
+lum","Hast-
+elloy C","Plat-
+inum",Al3O,PTFE,"Neo-
+prene","Hart 
+rubber",PFA
+CH3-COH,Acetaldehyde,Acetaldehyd,Acetaldehyd,,,Amb. Temp.,A,A,A,A,A,A,A,C,B,
+C3H6O,Acetone,Aceton,Aceton,,100,Amb. Temp.,B,A,A,A,A,A,A,B,B,A
+,Alum,Alaun,Alun,,10,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+AlCl3 oder (Al2Cl6),Aluminium chloride,Aluminiumchlorid,Aluminiumklorid,,10,Amb. Temp.,C,A,A,A,A,A,A,A,B,
+AlCl3 oder (Al2Cl6),Aluminium chloride,Aluminiumchlorid,,,10,100,C,A,A,A,A,A,A,A,B,
+AlCl3 oder (Al2Cl6),Aluminium chloride,Aluminiumchlorid,,,25,60,C,A,A,A,A,A,A,A,B,
+AlCl3 oder (Al2Cl6),Aluminium chloride,Aluminiumchlorid,,,25,100,,C,A,A,A,A,A,A,B,
+AlCl3 oder (Al2Cl6),Aluminium chloride,Aluminiumchlorid,,,80,boiling,,C,A,A,A,A,A,A,B,
+Al2(SO4)3,Aluminium sulphate,Aluminiumsulfat,Aluminiumsulfat,,10,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+Al2(SO4)3,Aluminium sulphate,Aluminiumsulfat,,,10,boiling,A,A,A,A,A,A,A,A,A,
+Al2(SO4)3,Aluminium sulphate,Aluminiumsulfat,,,15,50,,A,A,A,A,A,A,A,A,
+Al2(SO4)3,Aluminium sulphate,Aluminiumsulfat,,,20,55,,A,A,A,A,A,A,A,A,
+Al2(SO4)3,Aluminium sulphate,Aluminiumsulfat,,,25,boiling,,A,A,A,A,A,A,A,A,
+Al2(SO4)3,Aluminium sulphate,Aluminiumsulfat,,,50,boiling,,A,A,A,A,A,A,A,A,
+Al2(SO4)3,Aluminium sulphate,Aluminiumsulfat,,,55,40,,A,A,A,A,A,A,A,A,
+Al2(SO4)3,Aluminium sulphate,Aluminiumsulfat,,,57,120,B,A,A,A,A,A,A,A,A,
+CH2O2,Formic acid,Ameisensäure,Myrsyra,,10,Amb. Temp.,A,A,A,A,A,A,A,B,B,A
+CH2O2,Formic acid,Ameisensäure,,,10,65,A,A,A,B,A,A,A,B,B,A
+CH2O2,Formic acid,Ameisensäure,,,10,boiling,C,A,A,C,A,A,A,B,B,
+CH2O2,Formic acid,Ameisensäure,,,20-40,65,A,A,A,B,A,A,A,B,B,A
+CH2O2,Formic acid,Ameisensäure,,,50,Amb. Temp.,A,A,A,A,A,A,A,B,B,A
+CH2O2,Formic acid,Ameisensäure,,,50,boiling,B,C,A,C,A,A,A,B,B,
+CH2O2,Formic acid,Ameisensäure,,,60,65,A,B,A,B,A,A,A,B,B,A
+CH2O2,Formic acid,Ameisensäure,,,80,Amb. Temp.,A,A,A,A,A,A,A,B,B,A
+CH2O2,Formic acid,Ameisensäure,Myrsyra,,80,boiling,C,C,A,C,A,A,A,B,B,
+CH2O2,Formic acid,Ameisensäure,,,90,100,C,C,A,C,A,A,A,B,B,A
+CH2O2,Formic acid,Ameisensäure,,,conc.,Amb. Temp.,A,A,A,A,A,A,A,B,B,A
+CH2O2,Formic acid,Ameisensäure,,,conc.,boiling,C,C,A,C,A,A,A,B,B,
+NH3,"Ammonia, ammoniumhydroxide","Ammoniak, Ammoniumhydroxid",  Ammoniak,,10,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+NH3,"Ammonia, ammoniumhydroxide","Ammoniak, Ammoniumhydroxid",,,10,boiling,A,A,C,A,A,A,A,A,A,
+NH3,"Ammonia, ammoniumhydroxide","Ammoniak, Ammoniumhydroxid",,,20,boiling,A,A,C,A,A,A,A,A,A,
+NH3,"Ammonia, ammoniumhydroxide","Ammoniak, Ammoniumhydroxid",,,25,boiling,A,A,C,A,A,A,A,A,A,
+(NH4)2CO3.H2O,Ammonium carbonate,Ammoniumcarbonat,Ammoniumkarbonat,,30,boiling,A,,A,A,A,A,A,A,A,
+(NH4)2CO3.H2O,Ammonium carbonate,Ammoniumcarbonat,,,40,boiling,A,,A,A,A,A,A,A,A,
+(NH4)2CO3.H2O,Ammonium carbonate,Ammoniumcarbonat,,,50,boiling,A,,A,A,A,A,A,A,A,
+(NH4)2CO3.H2O,Ammonium carbonate,Ammoniumcarbonat,,,Sat.,Amb. Temp.,A,,A,A,A,A,A,A,A,
+(NH4)2CO3.H2O,Ammonium carbonate,Ammoniumcarbonat,,,Sat.,boiling,A,,A,A,A,A,A,A,A,
+NH4Cl,Ammonium chloride,Ammoniumchlorid,Ammoniumklorid,,10,Amb. Temp.,B,A,A,A,A,A,A,A,A,
+NH4Cl,Ammonium chloride,Ammoniumchlorid,,,10,boiling,B,A,A,A,A,A,A,A,A,
+NH4Cl,Ammonium chloride,Ammoniumchlorid,,,25,Amb. Temp.,B,A,A,A,A,A,A,A,A,
+NH4Cl,Ammonium chloride,Ammoniumchlorid,,,25,boiling,B,A,A,A,A,A,A,A,A,
+NH4Cl,Ammonium chloride,Ammoniumchlorid,,,50,Amb. Temp.,,A,A,A,A,A,A,A,A,
+NH4Cl,Ammonium chloride,Ammoniumchlorid,,,50,boiling,B,A,A,A,A,A,A,A,A,
+NH4Cl,Ammonium chloride,Ammoniumchlorid,,,Sat.,Amb. Temp.,B,A,A,A,A,A,A,A,A,
+NH4Cl,Ammonium chloride,Ammoniumchlorid,,,Sat.,boiling,B,A,A,A,A,A,A,A,A,
+NH4F,Ammonium fluoride,Ammoniumfluorid,Ammoniumflourid,,20,80,C,,,A,A,,,A,A,
+NH4OH,Ammonium hydroxide,Ammoniumhydroxid,Ammoniumhydroxid,,28,20-60,,A,A,A,A,A,A,A,A,
+NH4NO3,Ammonium nitrate,Ammoniumnitrat,Ammoniumnitrat,,10,Amb. Temp.,A,B,A,A,A,A,A,A,A,
+NH4NO3,Ammonium nitrate,Ammoniumnitrat,,,20,Amb. Temp.,A,B,A,A,A,A,A,A,A,
+NH4NO3,Ammonium nitrate,Ammoniumnitrat,,,20,boiling,A,B,A,A,A,A,A,A,A,
+NH4NO3,Ammonium nitrate,Ammoniumnitrat,,,50,Amb. Temp.,A,B,A,A,A,A,A,A,A,
+NH4NO3,Ammonium nitrate,Ammoniumnitrat,,,50,boiling,A,B,A,A,A,A,A,A,A,
+(NH4)2SO4,Ammonium sulphate,Ammoniumsulfat,Ammoniumsulfat,,,,,,,,,,,,,
+(NH4)2SO4,Ammonium sulphate,Ammoniumsulfat,,,,,,,,,,,,,,
+(NH4)2SO4,Ammonium sulphate,Ammoniumsulfat,,,,,,,,,,,,,,
+C6H7N,Aniline,Anilin,Anilin,,all,boiling,B,A,A,A,A,A,A,A,A,
+(HO)AsO2,Arsenic acid,Arsensäure,Arseniksyra,,,Amb. Temp.,A,,A,A,A,A,A,A,A,
+BaCl2,Barium chloride,Bariumchlorid,Bariumklorid,,20,Amb. Temp.,B,A,A,A,A,A,A,A,A,
+Ba(OH)2.8H2O,Barium hydroxide,Bariumhydroxid,Bariumhydroxid,,sat,Amb. Temp.,A,,A,A,C,A,A,A,A,
+C7H6O2,Benzoic  acid,Benzoesäure,Bensensyra,,all,Amb. Temp.,A,A,A,A,A,A,A,,A,
+C6H6,Benzene,Benzol,Bensen,,,Amb. Temp.,A,A,A,A,A,A,A,,A,
+,Benzene sulfonic acid,Benzolsulfonsäure,Bensen sulfonsyra,,5,70,A,,A,A,A,A,A,,A,
+HCN,Hydrocyanic acid,Blausäure (Cyanwasserstoffsäure),Bl†syra,,,Amb. Temp.,A,A,A,A,A,A,A,B,B,
+C4H6O2Pb,Lead acetate,Bleiazetat,Blyacetat,,all,Amb. Temp.,,,A,A,C,A,A,A,A,
+HBO2,Boric acid,Borsäure,Borsyra,,10,boiling,A,A,A,A,A,A,A,A,A,
+HBO2,Boric acid,Borsäure,,,50,boiling,A,A,A,A,A,A,A,A,A,
+Br2,Bromine,Brom,Brom,,dry,Amb. Temp.,C,C,A,A,A,A,A,C,C,A
+HBr,Hydrogen bromide,Bromwasserstoff,Bromv„te,,,Amb. Temp.,C,,A,,,A,A,B,C,
+HBr,Hydrobromic acid,Bromwasserstoffsäure,Bromv„tesyra,,0-50,boiling,C,,A,C,C,A,A,B,C,
+C4H8O2,Butyric acid,Buttersäure (Butansäure),,,100,Amb. Temp.,A,A,A,A,,A,A,A,A,
+C4H8O2,Butyric acid,Buttersäure (Butansäure),,,100,boiling,A,A,A,A,,A,A,A,A,
+C4H7O2Na,Butyl acetate,Butylacetat,Bytylacetat,,,Amb. Temp.,A,A,A,A,A,A,A,C,C,
+C4H9O,Butyl alcohol,Butylalkohol,Butanol,,,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+C4H9O,Butyl alcohol,Butylalkohol,,,,boiling,A,A,A,A,A,A,A,A,A,
+Cl2,Chlorine,Chlor,Klor,,dry,Amb. Temp.,B,C,A,A,A,A,A,C,C,A
+Cl2,Chlorine,Chlor,,,,70,B,,,A,,A,A,C,C,A
+Cl2,Chlorine,Chlor,,,,100,C,A,A,A,,A,A,C,C,
+,Chlorate,Chlorat,Klorat,,,50,,,,A,,A,A,,,
+C6H5Cl,Chlorine benzene,Chlorbenzol,Klorbesen,,,20,B,A,A,A,,A,A,C,C,
+C6H5Cl,Chlorine benzene,Chlorbenzol,,,,boiling,B,A,A,A,,A,A,C,C,
+C2H4OCl,Chloracetic acid,Chloressigsäure,Klor„ttikssyra,,50,20,C,A,A,A,A,A,A,C,C,A
+C2H4OCl,Chloracetic acid,Chloressigsäure,,,70,boiling,,A,A,A,A,A,A,C,C,
+C2H4OCl,Chloracetic acid,Chloressigsäure,,,100,Amb. Temp.,C,A,A,A,A,A,A,C,C,
+C2H4OCl,Chloracetic acid,Chloressigsäure,,,100,boiling,C,A,A,A,A,A,A,C,C,
+ClSO3H,Chlorosulfonic acid,Chlorsulfonsäure,Klor„ttiksyra,,,Amb. Temp.,C,C,A,A,A,A,A,C,C,A
+ClSO3H,Chlorosulfonic acid,Chlorsulfonsäure,,,,boiling,C,C,A,A,A,A,A,C,C,A
+,Chromic acid,Chromsäure,Kromsyra,,10,Amb. Temp.,A,A,A,A,A,A,A,C,C,
+,Chromic acid,Chromsäure,,,10,boiling,C,A,A,A,A,A,A,C,C,
+,Chromic acid,Chromsäure,,,50,Amb. Temp.,C,A,A,A,A,A,A,C,C,A
+,Chromic acid,Chromsäure,,,50,boiling,C,A,A,A,A,A,A,C,C,
+NaCN,Cyanide,Cyanid (Natriumcyanid),Cyanid,,10,Amb. Temp.,A,C,A,,,A,A,A,B,
+C2H2Cl2,Dichloroethene,Dichlorethen,Dikloreten,,100,50,B,A,A,A,,A,A,,C,
+C2H2Cl2,Dichloroethylene,Dichlorethylen (Azetylendichlorid),Dikloretylen,,,boiling,B,A,A,A,,A,A,,C,
+CH2Cl2,Dichloromethane,Dichlormethan,Dikloromethan,,,Amb. Temp.-boiling,B,A,A,A,,A,A,C,C,
+,Dioxane,Dioxan,Dioxan,,,,,A,A,A,,A,A,C,C,
+C10H18,Diphenyl,Diphenyl,Difenyl,,,,B,A,A,A,,A,A,C,C,
+FeCl2,"Ferric (II), per chloride",Eisen (II) Chlorid,,,30,100,,A,A,A,,A,A,A,B,
+FeCl2,"Ferric (II), per chloride",Eisen (II) Chlorid,,,10,boiling,,A,A,A,,A,A,A,B,
+FeCl2,"Ferric (II), per chloride",Eisen (II) Chlorid,,,30,Amb. Temp.,,A,A,A,,A,A,A,B,
+FeCl2,"Ferric (II), per chloride",Eisen (II) Chlorid,,,50,50,,A,A,A,,A,A,A,B,
+FeCl2,"Ferric (II), per chloride",Eisen (II) Chlorid,,,sat.,100,,A,A,A,,A,A,A,B,
+FeSO4.H2O,"Ferrous (II), sulfate",Eisen (II) Sulfat,Ferrosulfat,,10,Amb. Temp.,A,A,A,A,A,A,A,A,B,
+FeSO4.H2O,"Ferrous (II), sulfate",Eisen (II) Sulfat,,,all,boiling,A,A,A,A,A,A,A,A,B,
+FeCl3,"Ferric (III), per chloride",Eisen (III) Chlorid,,,5,25,C,A,A,A,,A,A,A,B,
+FeCl3,"Ferric (III), per chloride",Eisen (III) Chlorid,,,10,65,C,A,A,B,,A,A,A,B,
+FeCl3,"Ferric (III), per chloride",Eisen (III) Chlorid,,,15,25,C,A,A,A,,A,A,A,B,A
+FeCl3,"Ferric (III), per chloride",Eisen (III) Chlorid,,,45,25,C,A,A,B,,A,A,A,B,
+FeCl3,"Ferric (III), per chloride",Eisen (III) Chlorid,,,50,50,C,A,A,C,,A,A,A,B,
+FeCl3,"Ferric (III), per chloride",Eisen (III) Chlorid,,,50,boiling,C,A,A,C,,A,A,A,B,
+Fe2(SO4)3,"Ferrous (III), sulfate",Eisen (III) Sulfat,,,,Amb. Temp.,A,A,A,A,A,A,A,A,B,
+Fe2(SO4)3,"Ferrous (III), sulfate",Eisen (III) Sulfat,,,till 30,till 65,A,,A,A,A,A,A,A,B,
+Fe2(SO4)3,"Ferrous (III), sulfate",Eisen (III) Sulfat,,,,Amb. Temp.,C,C,C,A,A,A,A,A,A,
+Fe2(SO4)3,"Ferrous (III), sulfate",Eisen (III) Sulfat,,,30,30,C,C,C,A,A,A,A,A,A,
+Fe(NO3)2,Ferrous nitrate,Eisennitrat,,,all,Amb. Temp.,A,,A,A,A,A,A,A,A,
+CH3-COOH,Acetic acid,Essigsäure,Žttiksyra,,5,Amb. Temp.,A,A,A,A,A,A,A,A,B,A
+CH3-COOH,Acetic acid,Essigsäure,,,5,boiling,A,A,A,A,A,A,A,A,B,
+CH3-COOH,Acetic acid,Essigsäure,,,10,Amb. Temp.,A,A,A,A,A,A,A,A,B,A
+CH3-COOH,Acetic acid,Essigsäure,,,10,boiling,A,A,A,A,A,A,A,A,B,
+CH3-COOH,Acetic acid,Essigsäure,,,50,Amb. Temp.,A,A,A,A,A,A,A,A,B,A
+CH3-COOH,Acetic acid,Essigsäure,,,50,boiling,A,A,A,A,A,A,A,A,B,
+CH3-COOH,Acetic acid,Essigsäure,,,80,Amb. Temp.,B,A,A,A,A,A,A,A,B,A
+CH3-COOH,Acetic acid,Essigsäure,,,80,boiling,B,A,A,A,A,A,A,A,B,
+CH3-COOH,Acetic acid,Essigsäure,,,CONC,Amb. Temp.,A,A,A,A,A,A,A,A,B,A
+CH3-COOH,Acetic acid,Essigsäure,,,CONC,boiling,B,A,A,A,A,A,A,A,B,
+C4H8O3,Acetic anhydrid,Essigsäureanhydrid,Žttiksyraanhydrid,,,Amb. Temp.,A,A,A,A,A,A,A,A,B,
+C3H6O2,Ether,Ether (Ethyl),Eter,,,Amb. Temp.,A,A,A,A,A,A,A,C,C,A
+C3H6O2,Ether,Ether (Ethyl),,,,,,,,,,,,,,
+C2H3O2Na,Ethyl acetate,Ethylacetat,Žttiketer,,,Amb. Temp.,A,A,A,A,A,A,A,C,C,A
+C2H4O2,Ethyl alcohol,Ethylalkohol,Etylalkohol,,,Amb. Temp.,A,A,A,A,A,A,A,A,A,A
+C2H3O2Cl,Ethyl chloride,Ethylchlorid (Chlorwasserstoffether),Etylklorid,,,Amb. Temp.,B,A,A,A,,A,A,C,C,
+,Fatty acid,Fettsäure,Fettsyra,,techn.,100,,A,A,A,A,A,A,B,C,A
+,Fatty acid,Fettsäure,,,techn.,150,,A,A,A,A,A,A,B,C,
+,Fatty acid,Fettsäure,,,100,Amb. Temp.,A,A,A,A,A,A,A,B,C,
+,Fatty acid,Fettsäure,,,100,boiling,B,A,A,A,A,A,A,B,C,
+,Fatty acid,Fettsäure,,,100,135,A,A,A,A,A,A,A,B,C,
+,Fatty acid,Fettsäure,,,100,315,A,A,A,B,A,A,,,,
+HF,Hydrofluoric acid,Flußsäure (Fluorwasserstoffsäure),Flourv„tesyra,,1,Amb. Temp.,,C,C,A,A,A,A,B,B,A
+HF,Hydrofluoric acid,Flußsäure (Fluorwasserstoffsäure),,,40,Amb. Temp.,C,C,C,A,A,A,A,B,B,A
+HF,Hydrofluoric acid,Flußsäure (Fluorwasserstoffsäure),,,40,50,C,C,C,A,A,A,A,C,C,A
+HF,Hydrofluoric acid,Flußsäure (Fluorwasserstoffsäure),,,50,Amb. Temp.,C,C,C,A,A,A,A,B,B,A
+HF,Hydrofluoric acid,Flußsäure (Fluorwasserstoffsäure),,,100,Amb. Temp.,,C,C,A,A,B,A,C,C,
+HF,Hydrofluoric acid,Flußsäure (Fluorwasserstoffsäure),,,100,boiling,,C,C,A,A,B,A,C,C,
+CH2O,Formal dehyde,Formaldehyd,Formaldehyd,,all,till boiling,A,A,A,A,A,A,A,A,A,A
+,Tannic acid,Gerbsäure,Garvsyra,,10,Amb. Temp.,A,A,A,A,A,A,A,B,B,
+,Tannic acid,Gerbsäure,,,10,boiling,A,A,A,A,A,A,A,B,B,
+,Tannic acid,Gerbsäure,,,50,50,A,A,A,A,A,A,A,B,B,
+,Tannic acid,Gerbsäure,,,50,boiling,A,A,A,A,A,A,A,B,B,
+HOCH2CH(OH)CH2OH,Glycerol,Glyzerin,Glucerol,,,Amb. Temp.,A,A,A,A,A,A,A,A,A,A
+HOCH2CH(OH)CH2OH,Glycerol,Glyzerin,,,,150,A,A,A,A,A,A,A,A,A,A
+C3H4O3N3,Uric acid,Harnsäure,Urinsyra,,,Amb. Temp.,A,,A,A,A,A,A,A,A,
+KOH,Potassium hydroxide,Kalilauge,Kaliumhydroxid,,10,Amb. Temp.,B,A,A,A,A,A,A,A,A,A
+KOH,Potassium hydroxide,Kalilauge,,,10,boiling,B,A,,A,A,A,B,A,A,A
+KOH,Potassium hydroxide,Kalilauge,,,20,Amb. Temp.,B,A,A,A,A,A,A,A,A,A
+KOH,Potassium hydroxide,Kalilauge,,,20,Amb. Temp.,B,,A,A,A,A,A,A,A,A
+KOH,Potassium hydroxide,Kalilauge,,,20,boiling,B,,,A,A,B,A,A,A,A
+KOH,Potassium hydroxide,Kalilauge,,,28,Amb. Temp.,B,,A,A,A,A,A,A,A,A
+KOH,Potassium hydroxide,Kalilauge,,,28,boiling,B,,,A,A,B,A,A,A,A
+KOH,Potassium hydroxide,Kalilauge,,,40,till boiling,B,,,A,A,B,A,A,A,A
+KOH,Potassium hydroxide,Kalilauge,,,50,Amb. Temp.,B,,A,A,A,B,A,A,A,A
+KOH,Potassium hydroxide,Kalilauge,,,50,boiling,B,,,A,A,B,A,A,A,A
+KCl,Potassium chloride,Kaliumchlorid,Kaliumklorid,,10,Amb. Temp.,B,A,A,A,A,A,A,A,A,
+KCl,Potassium chloride,Kaliumchlorid,Kaliumklorid,,10,boiling,B,A,A,A,A,A,A,A,A,
+KCl,Potassium chloride,Kaliumchlorid,,,20,boiling,B,A,A,A,A,A,A,A,A,
+KCl,Potassium chloride,Kaliumchlorid,,,30,boiling,B,A,A,A,A,A,A,A,A,
+KCl,Potassium chloride,Kaliumchlorid,,,sat.,100,B,A,A,A,A,A,A,A,A,
+KOCl,Potassium hypochlorite,Kaliumhypochlorit (Chlorkali),Kalium,,20 g,till 40,B,A,A,A,,A,A,C,C,
+KOCl,Potassium hypochlorite,Kaliumhypochlorit (Chlorkali),,,CI/1,,,,,,,,,,,
+KOCl,Potassium hypochlorite,Kaliumhypochlorit (Chlorkali),,,130 g,Amb. Temp.,C,A,A,A,,A,A,C,C,
+KOCl,Potassium hypochlorite,Kaliumhypochlorit (Chlorkali),,,CI/1,,,,,,,,,,,
+KOCl,Potassium hypochlorite,Kaliumhypochlorit (Chlorkali),,,130 g,150,C,A,A,A,,A,A,C,C,
+KOCl,Potassium hypochlorite,Kaliumhypochlorit (Chlorkali),,,CI/1,,,,,,,,,,,
+KNO3,Potassium nitrate,Kaliumnitrat (Kalisalpeter),Kaliumnitrat,,25,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+KNO3,Potassium nitrate,Kaliumnitrat (Kalisalpeter),,,25,boiling,A,A,A,A,A,A,A,A,A,
+KNO3,Potassium nitrate,Kaliumnitrat (Kalisalpeter),,,40,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+KNO3,Potassium nitrate,Kaliumnitrat (Kalisalpeter),,,40,boiling,A,A,A,A,A,A,A,A,A,
+KNO3,Potassium nitrate,Kaliumnitrat (Kalisalpeter),,,50,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+KNO3,Potassium nitrate,Kaliumnitrat (Kalisalpeter),,,50,boiling,A,A,A,A,A,A,A,A,A,
+KNO3,Potassium nitrate,Kaliumnitrat (Kalisalpeter),,,sat.,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+KNO3,Potassium nitrate,Kaliumnitrat (Kalisalpeter),,,sat.,boiling,A,A,A,A,A,A,A,A,A,
+KClO4,Potassium perchlorate,Kaliumperchlorat,Kaliumperklorat,,25,25,,A,A,A,,A,A,A,A,
+KClO4,Potassium perchlorate,Kaliumperchlorat,,,50,25,,A,A,A,,A,A,A,A,
+KClO4,Potassium perchlorate,Kaliumperchlorat,,,75,25,,A,A,A,,A,A,A,A,
+KMnO4,Potassium permanganate,Kaliumpermanganat,Kaliumpermanganat,,all,Amb. Temp.,A,,A,A,A,,A,A,A,A
+KMnO4,Potassium permanganate,Kaliumpermanganat,,,all,boiling,A,,A,A,A,,A,A,A,
+K2SO4,Potassium sulfate,Kaliumsulfat,Kaliumsulfat,,10,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+K2SO4,Potassium sulfate,Kaliumsulfat,,,20,till 50,A,A,A,A,A,A,A,A,A,
+,Calcium bisulfite,Kalziumbisulfit,Kalciumbisulfit,,,Amb. Temp.,A,A,A,A,A,A,A,B,B,
+CS2,Carbon disulfide,Kalziumdisulfid,Koldisulfid,,,Amb. Temp.,A,A,A,A,A,A,A,C,C,
+CS2,Carbon disulfide,Kalziumdisulfid,,,,boiling,A,A,A,A,A,A,A,C,C,
+,Calcium hypochlorite,Kalziumhypochlorid (Chlorkalk),Kalciumhypoklorit,,20,40,B,A,A,A,A,A,A,B,C,
+Ca(NO3)2,Calcium nitrate,Kalziumnitrat,Kalciumnitrat,,,Amb. Temp.,A,A,,A,A,A,A,A,A,
+CaSO4,Calcium sulfate,Kalziumsulfat (Gips),Kalciumsulfat,,1 ... 5,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+CaSO4,Calcium sulfate,Kalziumsulfat (Gips),,,10,boiling,A,A,A,A,A,A,A,A,A,
+CuCl2,"Copper (II), Chloride",Kupfer (II) Chlorid,Koppar,,20,Amb. Temp.,C,A,A,A,C,A,A,A,A,
+CuCl2,"Copper (II), Chloride",Kupfer (II) Chlorid,,,20,boiling,C,A,A,C,C,A,A,A,A,
+CuCl2,"Copper (II), Chloride",Kupfer (II) Chlorid,,,40,boiling,C,A,A,C,C,A,A,A,A,
+CuCl2,"Copper (II), Chloride",Kupfer (II) Chlorid,,,50,Amb. Temp.,,A,A,A,C,A,A,A,A,
+CuCl2,"Copper (II), Chloride",Kupfer (II) Chlorid,,,sat.,boiling,,A,A,C,C,A,A,A,A,
+CuCl2,"Copper (II), Chloride",Kupfer (II) Chlorid,,,5,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+CuCl2,"Copper (II), Chloride",Kupfer (II) Chlorid,,,5,boiling,A,A,A,A,A,A,A,A,A,
+CuCl2,"Copper (II), Chloride",Kupfer (II) Chlorid,,,25,boiling,A,A,A,A,A,A,A,A,A,
+CuCl2,"Copper (II), Chloride",Kupfer (II) Chlorid,,,50,boiling,A,A,A,A,A,A,A,A,A,
+CuCl2,"Copper (II), Chloride",Kupfer (II) Chlorid,,,all,boiling,A,A,A,A,A,A,A,A,A,
+MgCl2,Magnesium chloride,Magnesiumchlorid,Magnesiumklorid,,10,Amb. Temp.,B,A,A,A,A,A,A,A,A,
+MgCl2,Magnesium chloride,Magnesiumchlorid,,,20,boiling,B,A,A,A,A,A,A,A,A,
+MgCl2,Magnesium chloride,Magnesiumchlorid,,,30,Amb. Temp.,B,A,A,A,A,A,A,A,A,
+MgCl2,Magnesium chloride,Magnesiumchlorid,,,42,boiling,B,A,A,A,A,A,A,A,A,
+MgSO4,Magnesium sulfate,Magnesiumsulfat (Bittersalz),Bittersalt,,10,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+MgSO4,Magnesium sulfate,Magnesiumsulfat (Bittersalz),,,25,boiling,A,A,A,A,A,A,A,A,A,
+MgSO4,Magnesium sulfate,Magnesiumsulfat (Bittersalz),,,50,50-boiling,A,A,A,A,A,A,A,A,A,
+MgSO4,Magnesium sulfate,Magnesiumsulfat (Bittersalz),,,ges.,Amb. Temp.-80,A,A,A,A,A,A,A,A,A,
+C4H4O4,Maleic acid,Maleinsäure,Maleinsyra,,10,till 80,,A,A,A,,A,A,A,B,
+C4H4O4,Maleic acid,Maleinsäure,,,10,boiling,,A,A,A,,A,A,A,B,
+C4H4O4,Maleic acid,Maleinsäure,,,50,100,,A,A,A,,A,A,A,B,
+C4H4O4,Maleic acid,Maleinsäure,Maleinsyra,,till 50,Amb. Temp.,A,A,A,A,,A,A,A,A,
+C4H4O4,Maleic acid,Maleinsäure,,,,boiling,A,A,A,A,,A,A,A,A,
+MnCl2,Manganous chloride,Manganchlorid,Manganklorid,,5,100,B,A,A,A,,A,A,A,A,
+MnCl2,Manganous chloride,Manganchlorid,,,20,100,B,A,A,A,,A,A,A,A,
+MnCl2,Manganous chloride,Manganchlorid,Manganklorid,,50,100,B,A,A,A,,A,A,A,A,
+MnSO4,Manganous sulfate,Mangansulfat,Mangansulfat,,all,Amb. Temp.,A,A,A,A,,A,A,A,A,
+CH3O,Methanol,Methanol,Metanol,,all,Amb. Temp.,A,A,A,A,A,A,A,A,A,A
+CH3O,Methanol,Methanol,,,all,boiling,B,B,A,A,A,A,A,A,A,A
+CH3CH(OH)CO2H,Lactic acid,Milchsäure,Mj”lksyra,,1.05,Amb. Temp.,A,A,A,A,,A,A,B,C,
+CH3CH(OH)CO2H,Lactic acid,Milchsäure,,,1.05,boiling,A,A,A,A,,A,A,B,C,
+CH3CH(OH)CO2H,Lactic acid,Milchsäure,,,10,Amb. Temp.,A,A,A,A,,A,A,B,C,
+CH3CH(OH)CO2H,Lactic acid,Milchsäure,Mj”lksyra,,10,boiling,C,A,A,A,,A,A,B,C,
+CH3CH(OH)CO2H,Lactic acid,Milchsäure,,,conc.,boiling,B,A,A,B,,A,A,B,C,
+C2H3O2Cl,Monochloracetic acid,Monochloressigsäure,Monoklor„ttiksyra,,50,Amb. Temp.,B,A,A,A,,A,A,C,C,
+C2H3O2Cl,Monochloracetic acid,Monochloressigsäure,,,70,boiling,C,A,A,A,,A,A,C,C,
+C2H3O2Cl,Monochloracetic acid,Monochloressigsäure,,,100,Amb. Temp.,B,A,A,A,,A,A,C,C,
+C2H3O2Cl,Monochloracetic acid,Monochloressigsäure,,,100,boiling,C,A,A,A,,A,A,C,C,
+C10H8,Naphthalene,Naphthalin,Naftalin,,,Amb. Temp.,A,A,A,A,,A,A,C,C,A
+Na2CO3,Sodium bicarbonate,Natriumbikarbonat (Natriumkarbonat),Natriumbikarbonat,,10,till 5,A,A,,A,A,A,A,A,A,
+Na2CO3,Sodium bicarbonate,Natriumbikarbonat (Natriumkarbonat),,,20,40-boiling,A,A,,A,A,A,A,A,A,
+Na2CO3,Sodium bicarbonate,Natriumbikarbonat (Natriumkarbonat),,,all,all,A,A,,A,A,A,A,A,A,
+Na2SO4,Sodium bisulfate,Natriumbisulfat,Natriumbisulfat,,10,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+Na2SO4,Sodium bisulfate,Natriumbisulfat,,,10,boiling,A,B,A,A,A,A,A,A,A,
+Na2SO4,Sodium bisulfate,Natriumbisulfat,,,sat.,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+Na2SO4,Sodium bisulfate,Natriumbisulfat,,,sat.,boiling,B,B,A,A,A,A,A,A,A,
+Na2SO3,Sodium bisulfite,Natriumbisulfit,Natriumbisulfit,,50,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+Na2SO3,Sodium bisulfite,Natriumbisulfit,,,50,boiling,A,A,A,A,A,A,A,A,A,
+NaClO3,Sodium chlorate,Natriumchlorat,Natriumklorat,,5,Amb. Temp.,,A,A,A,A,A,A,A,A,
+NaClO3,Sodium chlorate,Natriumchlorat,,,5,boiling,,A,A,A,A,A,A,A,A,
+NaCl,Sodium chloride,Natriumchlorid (Kochsalz),Natriumklorid,,pure,Amb. Temp.,B,A,A,A,A,A,A,A,A,
+NaCl,Sodium chloride,Natriumchlorid (Kochsalz),,,pure,boiling,B,A,A,A,A,A,A,A,A,
+NaClO4,Sodium chlorite,Natriumchlorit,Natriumklorit,,5,Amb. Temp.,B,A,A,A,C,A,A,C,C,
+NaClO4,Sodium chlorite,Natriumchlorit,,,5,boiling,C,A,A,A,C,A,A,C,C,
+NaClO4,Sodium chlorite,Natriumchlorit,,,10,Amb. Temp.,B,A,A,A,C,A,A,C,C,
+NaOH,Sodium hydroxide,Natriumhydroxyd (Natronlauge),Natriumhydroxid,,10,Amb. Temp.,A,A,A,A,A,A,A,A,A,A
+NaOH,Sodium hydroxide,Natriumhydroxyd (Natronlauge),,,10,-150,A,A,A,A,A,,A,A,A,A
+NaOH,Sodium hydroxide,Natriumhydroxyd (Natronlauge),,,20,Amb. Temp.,A,A,A,A,A,A,A,A,A,A
+NaOH,Sodium hydroxide,Natriumhydroxyd (Natronlauge),,,20,-150,A,A,A,A,A,,A,A,A,
+NaOH,Sodium hydroxide,Natriumhydroxyd (Natronlauge),,,34,Amb. Temp.,A,A,B,A,A,,A,A,A,A
+NaOH,Sodium hydroxide,Natriumhydroxyd (Natronlauge),,,34,-150,C,A,B,A,A,,A,A,A,A
+NaOH,Sodium hydroxide,Natriumhydroxyd (Natronlauge),,,50,Amb. Temp.,B,A,B,A,A,,A,A,A,A
+NaOH,Sodium hydroxide,Natriumhydroxyd (Natronlauge),,,50,-150,B,B,C,A,A,,A,A,A,A
+NaOH,Sodium hydroxide,Natriumhydroxyd (Natronlauge),,,60,-150,C,B,C,B,A,,A,A,A,A
+NaOH,Sodium hydroxide,Natriumhydroxyd (Natronlauge),,,70,-150,C,B,C,B,A,,A,A,A,A
+NaOCl,Sodium hypochloride,Natriumhypochlorid,Natriumhypoklorid,,10 g,Amb. Temp.,,A,A,A,A,A,A,C,C,
+NaOCl,Sodium hypochloride,Natriumhypochlorid,,,CI/I,,,,,,,,,,,
+NaOCl,Sodium hypochloride,Natriumhypochlorid,,,10 g,50,,A,A,A,A,A,A,C,C,
+NaOCl,Sodium hypochloride,Natriumhypochlorid,,,CI/I,,,,,,,,,,,
+NaOCl,Sodium hypochloride,Natriumhypochlorid,,,20 g,Amb. Temp.,,A,A,A,A,A,A,C,C,
+NaOCl,Sodium hypochloride,Natriumhypochlorid,,,CI/I,,,,,,,,,,,
+NaOCl,Sodium hypochloride,Natriumhypochlorid,,,20 g,40,,A,A,B,A,A,A,C,C,
+NaOCl,Sodium hypochloride,Natriumhypochlorid,,,CI/I,,,,,,,,,,,
+NaOCl,Sodium hypochloride,Natriumhypochlorid,,,120 g,Amb. Temp.,B,A,A,C,A,A,A,C,C,
+NaOCl,Sodium hypochloride,Natriumhypochlorid,,,CI/I,,,,,,,,,,,
+NaOCl,Sodium hypochloride,Natriumhypochlorid,,,120 g,boiling,,A,A,C,A,A,A,C,C,
+NaOCl,Sodium hypochloride,Natriumhypochlorid,,,CI/I,,,,,,,,,,,
+Na2CO3,Sodium carbonate,Natriumkarbonat (Soda),Natriumkarbonat,,10,boiling,B,A,A,A,A,A,A,A,A,A
+Na2CO3,Sodium carbonate,Natriumkarbonat (Soda),,,20,Amb. Temp.,B,A,A,A,A,A,A,A,A,A
+Na2CO3,Sodium carbonate,Natriumkarbonat (Soda),,,20,50-boiling,B,A,A,A,A,A,A,A,A,A
+Na2CO3,Sodium carbonate,Natriumkarbonat (Soda),,,50,Amb. Temp.,,A,A,A,A,A,A,A,A,A
+Na2CO3,Sodium carbonate,Natriumkarbonat (Soda),,,50,boiling,,A,A,A,A,A,A,A,A,A
+Na2CO3,Sodium carbonate,Natriumkarbonat (Soda),,,sat.,Amb. Temp.,B,A,A,A,A,A,A,A,A,A
+Na2CO3,Sodium carbonate,Natriumkarbonat (Soda),Natriumkarbonat,,sat.,boiling,B,A,A,A,A,A,A,A,A,A
+NaNO3,Sodium nitrate,Natriumnitrat (Natronsalpeter),Natriumnitrat,,,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+NaNO3,Sodium nitrate,Natriumnitrat (Natronsalpeter),,,,100,A,A,A,A,A,A,A,A,A,
+NaNO2,Sodium nitrite,Natriumnitrit,Natriumnitrat,,,70,,A,A,A,A,A,A,A,A,
+NaNO2,Sodium nitrite,Natriumnitrit,,,,100,,A,A,A,A,A,A,A,A,
+Na2O2,Sodium peroxide,Natriumperoxyd,Natriumperoxid,,10,Amb. Temp.,A,C,,A,A,A,A,A,A,
+Na2O2,Sodium peroxide,Natriumperoxyd,,,10,boiling,A,C,,A,A,A,A,A,A,
+Na2SO4,Sodium sulfate,Natriumsulfat (Glaubersalz),Natriumsulfat,,sat.,Amb. Temp.,A,A,A,A,A,A,A,B,C,
+Na2SO4,Sodium sulfate,Natriumsulfat (Glaubersalz),,,sat.,boiling,A,C,A,A,A,A,A,B,C,
+Na2S,Sodium sulfide,Natriumsulfid (Schwefelnatrium),Natriumsulfid,,25,Amb. Temp.,A,A,A,,A,A,A,B,C,
+Na2S,Sodium sulfide,Natriumsulfid (Schwefelnatrium),,,25,boiling,A,A,A,,A,A,A,B,C,
+Na2S,Sodium sulfide,Natriumsulfid (Schwefelnatrium),,,50,Amb. Temp.,A,A,A,,A,A,A,B,C,
+Na2S,Sodium sulfide,Natriumsulfid (Schwefelnatrium),,,50,boiling,A,A,A,,A,A,A,B,C,
+Na2S,Sodium sulfide,Natriumsulfid (Schwefelnatrium),,,sat.,Amb. Temp.,A,A,A,,A,A,A,B,C,
+Na2SO3,Sodium sulfite,Natriumsulfit,Natriumsulfid,,25,Amb. Temp.,,A,A,A,A,A,A,B,C,
+Na2SO3,Sodium sulfite,Natriumsulfit,,,25,boiling,,A,A,A,A,A,A,B,C,
+Na2SO3,Sodium sulfite,Natriumsulfit,,,50,Amb. Temp.,A,A,A,A,A,A,A,B,C,
+Na2SO3,Sodium sulfite,Natriumsulfit,,,50,boiling,A,A,A,A,A,A,A,B,C,
+Na2S2O3,Sodium thiosulfate,Natriumthiosulfat (Fixiersalz),Natriumtiosulfit,,25,Amb. Temp.,A,A,A,A,C,A,A,B,C,
+Na2S2O3,Sodium thiosulfate,Natriumthiosulfat (Fixiersalz),,,25,boiling,B,A,A,A,C,A,A,B,C,
+NiCl2,Nickel chloride,Nickelchlorid,Nickelklorid,,10,60,B,A,A,A,A,A,A,A,A,
+NiCl2,Nickel chloride,Nickelchlorid,,,10,boiling,B,A,A,C,A,A,A,A,A,
+NiCl2,Nickel chloride,Nickelchlorid,,,20,Amb. Temp.,,A,A,A,A,A,A,A,A,
+NiCl2,Nickel chloride,Nickelchlorid,,,30,boiling,,A,A,C,A,A,A,A,A,
+NiCl2,Nickel chloride,Nickelchlorid,,,80,95,,A,A,C,A,A,A,A,A,
+Ni(NO3)2,Nickel nitrate,Nickelnitrat,Nickelnitrat,,,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+NiSO4,Nickel sulfate,Nickelsulfat,Nickelsulfat,,,80,,A,A,A,A,A,A,A,A,
+C6H5NO2,Nitro benzene,Nitrobenzol,Nitrobensol,,,,,A,A,A,A,A,A,A,A,A
+H2SO4 (130%),Oleum,Oleum,Litopon,,10,Amb. Temp.,A,C,A,A,A,A,A,C,C,
+H2SO4 (130%),Oleum,Oleum,,,10,boiling,,C,C,B,A,A,A,C,C,
+H2SO4 (130%),Oleum,Oleum,,,25,Amb. Temp.,,C,A,A,A,A,A,C,C,
+H2SO4 (130%),Oleum,Oleum,,,25,boiling,,C,C,C,A,A,A,C,C,
+C2H2O4,Oxalic acid,Oxalsäure,Oxalsyra,,5,Amb. Temp.,A,A,A,A,,A,A,A,B,
+C2H2O4,Oxalic acid,Oxalsäure,,,5,boiling,C,C,A,A,,A,A,A,B,
+C2H2O4,Oxalic acid,Oxalsäure,,,10,Amb. Temp.,A,A,A,A,,A,A,A,B,
+C2H2O4,Oxalic acid,Oxalsäure,,,10,boiling,C,C,A,A,,A,A,A,B,
+C2H2O4,Oxalic acid,Oxalsäure,,,25,Amb. Temp.,,A,A,A,,A,A,A,B,
+C2H2O4,Oxalic acid,Oxalsäure,,,25,boiling,,C,A,A,,A,A,A,B,
+C2H2O4,Oxalic acid,Oxalsäure,,,50,Amb. Temp.,,A,A,A,,A,A,A,B,
+C2H2O4,Oxalic acid,Oxalsäure,,,50,boiling,,C,A,A,,A,A,A,B,
+C2H2O4,Oxalic acid,Oxalsäure,,,sat.,Amb. Temp.,,B,A,A,,A,A,A,B,
+C2H2O4,Oxalic acid,Oxalsäure,,,sat.,boiling,,C,A,A,,A,A,A,B,
+O3,Ozone,Ozon,Ozon,,liquid,,,A,A,B,A,A,A,B,C,
+,Perchloroethylene,Perchlorethylen,Perkloretylen,,,Amb. Temp.,B,A,A,A,A,A,A,C,C,
+,Perchloroethylene,Perchlorethylen,,,,boiling,B,A,A,A,A,A,A,C,C,
+C6H5OH,Phenol,Phenol,Fenol,,pure,Amb. Temp.,A,A,A,A,A,A,A,C,C,
+C6H5OH,Phenol,Phenol,Fenol,,,boiling,A,A,A,A,A,A,A,C,C,
+H3PO4,Phosphoric acid,Phosphorsäure,Fosforsyra,,1,Amb. Temp.,A,A,A,A,A,A,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,1,boiling,A,B,A,A,A,,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,1,140,,C,A,A,A,,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,10,Amb. Temp.,A,A,A,A,A,A,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,10,150,A,C,A,A,A,,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,30,Amb. Temp.,A,A,A,A,A,A,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,30,150,B,C,A,A,A,,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,45,Amb. Temp.,A,B,A,A,A,A,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,45,150,A,C,A,A,A,,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,80,Amb. Temp.,A,B,A,A,A,A,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,80,60,,B,A,A,A,,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,80,150,C,C,A,B,A,A,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,90,Amb. Temp.,,B,A,A,A,,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,90,150,,C,A,C,A,A,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,conc.,Amb. Temp.,B,B,A,A,A,A,A,A,A,A
+H3PO4,Phosphoric acid,Phosphorsäure,,,conc.,150,C,C,A,C,A,,A,A,A,A
+C5H5N,Pyridine,Pyridin,Pyridin,,50,Amb. Temp.-60,A,A,A,A,,A,A,C,C,
+C5H5N,Pyridine,Pyridin,,,100,Amb. Temp.-60,A,A,A,A,,A,A,C,C,
+Hg,Mercury,Quecksilber,Kvicksilver,,,20,B,A,A,A,A,A,A,A,A,
+Hg,Mercury,Quecksilber,,,,50,B,A,A,A,A,A,A,A,A,
+Hg,Mercury,Quecksilber,,,,boiling,B,B,A,B,A,A,,,,
+HNO3,Nitric acid,Salpetersäure,Salpetersyra,,7,Amb. Temp.,A,A,A,A,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,7,boiling,A,A,A,B,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,10,Amb. Temp.,A,A,A,A,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,10,boiling,A,A,A,B,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,25,Amb. Temp.,A,A,A,A,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,25,boiling,A,B,A,C,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,37,Amb. Temp.,A,A,A,A,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,37,boiling,A,B,A,C,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,50,Amb. Temp.,A,A,A,A,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,50,boiling,B,B,A,C,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,65,Amb. Temp.,A,A,A,A,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,65,boiling,C,A,A,C,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,70,100,C,A,A,C,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,100,Amb. Temp.,C,A,A,,A,,A,C,C,A
+HNO3,Nitric acid,Salpetersäure,,,100,50-70,,A,A,,A,,A,C,C,
+HNO3,Nitric acid,Salpetersäure,,,100,boiling,,A,A,,A,,A,C,C,
+HCl,Hydrochlorid acid,Salzsäure,Saltsyra,,0.05,Amb. Temp.,B,A,A,A,A,A,A,B,B,A
+HCl,Hydrochlorid acid,Salzsäure,,,0.05,150,C,A,A,C,A,A,A,C,C,A
+HCl,Hydrochlorid acid,Salzsäure,,,5,Amb. Temp.,C,A,A,A,A,A,A,B,B,A
+HCl,Hydrochlorid acid,Salzsäure,,,5,60,C,A,A,C,A,A,A,B,B,A
+HCl,Hydrochlorid acid,Salzsäure,,,5,150,C,A,A,C,A,A,A,C,C,A
+HCl,Hydrochlorid acid,Salzsäure,,,10,Amb. Temp.,C,A,A,B,A,A,A,B,B,A
+HCl,Hydrochlorid acid,Salzsäure,,,10,50,C,A,A,B,A,A,A,B,B,A
+HCl,Hydrochlorid acid,Salzsäure,,,10,150,C,C,A,C,A,A,A,C,C,A
+HCl,Hydrochlorid acid,Salzsäure,,,15,Amb. Temp.,,A,A,B,A,A,A,B,B,A
+HCl,Hydrochlorid acid,Salzsäure,,,15,150,,C,A,C,A,A,A,C,C,A
+HCl,Hydrochlorid acid,Salzsäure,,,20,Amb. Temp.,B,A,A,B,A,A,A,B,B,A
+HCl,Hydrochlorid acid,Salzsäure,,,20,150,C,C,A,C,A,A,A,C,C,A
+HCl,Hydrochlorid acid,Salzsäure,Saltsyra,,30,Amb. Temp.,,C,A,B,A,A,A,B,B,A
+HCl,Hydrochlorid acid,Salzsäure,,,30,150,,C,A,C,A,A,A,C,C,A
+HCl,Hydrochlorid acid,Salzsäure,,,37,Amb. Temp.,B,C,A,C,A,A,A,B,B,A
+HCl,Hydrochlorid acid,Salzsäure,,,37,150,,C,A,C,A,A,A,C,C,A
+H2SO3,Sulphurous acid,Schwefelige Säure,Svavelhaltigsyra,,sat.,Amb. Temp.,,A,A,A,A,A,A,B,B,
+CS,Sulfur monochloride,Schwefelmonochlorid,Svavelmonoklorid,,,Amb. Temp.,B,C,A,A,,A,A,C,C,
+CS,Sulfur monochloride,Schwefelmonochlorid,Svavelmonoklorid,,,boiling,B,C,A,A,,A,A,C,C,
+H2SO4,Sulfuric acid,Schwefelsäure,Svavelsyra,,2,Amb. Temp.,A,A,A,A,A,A,A,A,A,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,2,150,C,A,A,B,A,,A,A,B,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,5,Amb. Temp.,A,A,A,A,A,A,A,A,A,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,5,150,C,A,A,B,A,,A,A,B,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,10,Amb. Temp.,A,A,A,A,A,A,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,Svavelsyra,,10,150,C,B,A,B,A,,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,25,Amb. Temp.,C,A,A,A,A,A,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,25,150,C,C,A,C,A,,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,50,Amb. Temp.,C,B,A,A,A,A,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,50,150,C,C,A,C,A,,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,60,Amb. Temp.,C,B,A,A,A,A,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,60,150,C,C,A,C,A,,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,77,Amb. Temp.,C,C,A,A,A,A,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,77,150,C,C,B,C,A,,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,80,Amb. Temp.,C,C,A,A,A,A,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,80,150,,C,B,C,A,,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,85,Amb. Temp.,,C,A,A,A,A,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,85,150,,C,C,C,A,,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,90,Amb. Temp.,A,C,A,A,A,A,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,90,150,C,C,C,C,A,,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,96,Amb. Temp.,A,C,A,A,A,A,A,C,C,A
+H2SO4,Sulfuric acid,Schwefelsäure,,,96,150,C,C,C,C,A,,A,C,C,A
+H2S,Hydrogen sulfide,Schwefelwasserstoff,Svavelv„te,,,Amb. Temp.,A,A,A,A,A,A,A,B,C,A
+H2S,Hydrogen sulfide,Schwefelwasserstoff,,,,100,A,A,A,A,A,A,A,C,C,A
+H2O,Seawater,Seewasser,Havsvatten,,,Amb. Temp.,B,A,A,A,A,A,A,A,A,
+NaCl,Brine,Sole (Salzlake),Saltlake,,techn.,Amb. Temp.,B,A,A,A,A,A,A,A,A,
+NaCl,Brine,Sole (Salzlake),,,,boiling,B,A,A,A,A,A,A,A,A,
+CCl4,Carbon tetra chlorine,Tetrachlorkohlenstoff,Kolteraklorin,,,Amb. Temp.,B,A,A,A,,A,A,C,C,A
+C2H3Cl3,Trichloroethylene,Trichlorethylen,Trikloretylen,,,Amb. Temp.,B,A,A,A,,A,A,C,C,A
+C4H6O6,Tartaric acid,Wein(stein)säure,Vinsyra,,all,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+C4H6O6,Tartaric acid,Wein(stein)säure,,,all,boiling,C,A,A,B,A,A,A,A,A,
+ZnCl2,Zinc chloride,Zinkchlorid,Zinkklorid,,10,Amb. Temp.,B,A,A,A,,A,A,A,B,
+ZnCl2,Zinc chloride,Zinkchlorid,,,10,boiling,B,A,A,A,A,A,A,A,B,
+ZnCl2,Zinc chloride,Zinkchlorid,,,20,Amb. Temp.,B,A,A,A,,A,A,A,B,A
+ZnCl2,Zinc chloride,Zinkchlorid,,,20,boiling,B,A,A,A,,A,A,A,B,
+ZnCl2,Zinc chloride,Zinkchlorid,,,60,Amb. Temp.,B,A,A,A,,A,A,A,B,
+ZnCl2,Zinc chloride,Zinkchlorid,,,60,boiling,B,B,A,B,,A,A,A,B,
+ZnCl2,Zinc chloride,Zinkchlorid,,,100,boiling,C,C,A,B,,A,A,A,B,
+SnCl2,Tin chloride,Zinnchlorid,Tennklorid,,all,Amb. Temp.,B,A,A,A,,A,A,A,A,
+SnCl2,Tin chloride,Zinnchlorid,,,all,150,C,A,A,A,,A,A,A,A,
+,Citric acid,Zitronensäure,Citronsyra,,5,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+,Citric acid,Zitronensäure,,,5,boiling,A,A,A,A,A,A,A,A,A,
+,Citric acid,Zitronensäure,,,25,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+,Citric acid,Zitronensäure,,,25,boiling,A,A,A,A,A,A,A,A,A,
+,Citric acid,Zitronensäure,,,50,Amb. Temp.,A,A,A,A,A,A,A,A,A,
+,Citric acid,Zitronensäure,Citronsyra,,50,boiling,A,B,A,A,A,A,A,A,A,
+KCN,Potassium cyanide,Zyankali,Kaliumcyanid,,10,Amb. Temp.,A,C,A,,A,A,A,A,B,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+A,excellent,,,,,,,,,,,,,,,
+B,good,,,,,,,,,,,,,,,
+C,not aceptable,,,,,,,,,,,,,,,
+X,X not aceptable for electrodes,,,,,,,,,,,,,,,
+RT,ambient temp,,,,,,,,,,,,,,,
+S,boiling,,,,,,,,,,,,,,,
